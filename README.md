@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 ¡Hola, mundo! Soy Adrhiell Medina 👨‍💻
 
-<!--
-**SaridDevp/SaridDevp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Apasionado por la tecnología y el desarrollo web.**  
+🚀 Estudiante de Ingeniería en Sistemas | Desarrollador Full Stack en formación  
+😏 Amante de Js - Ts | ⚛️ Explorando el poder de React | 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tecnologías que manejo
+
+- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS  
+- **Backend**: Python, Django , Node.js 
+- **Base de datos**: SQL Server, SQLite  
+- **Otras**: Git, GitHub, VSCode  
+
+---
+
+### 📫 ¿Quieres contactarme?
+
+- 💼 LinkedIn: 
+- 📧 Email: [medinaadriell37@gmail.com]
+
+---
+
+> 🧭 *“No se trata solo de programar... se trata de construir algo que importe.”*
+
