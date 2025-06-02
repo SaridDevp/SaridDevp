@@ -1,4 +1,4 @@
-## 👋 ¡Hola, mundo! Soy Adrhiell Medina 👨‍💻
+## 👋 ¡Hola, mundo! Soy Adrhiell Sarid Medina 👨‍💻
 
 🎯 **Apasionado por la tecnología y el desarrollo web.**  
 🚀 Estudiante de Ingeniería en Sistemas | Desarrollador Full Stack en formación  
