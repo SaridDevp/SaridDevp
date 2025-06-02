@@ -17,7 +17,7 @@
 
 ### 📫 ¿Quieres contactarme?
 
-- 💼 LinkedIn: 
+
 - 📧 Email: [medinaadriell37@gmail.com]
 
 ---
